@@ -1,3 +1,4 @@
+# RUN THE CLEANING FILE BEFORE YOU RUN THIS FILE
 library(rvest)
 library(usmap)
 library(viridis)
